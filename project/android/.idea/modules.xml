@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyMusic.iml" filepath="$PROJECT_DIR$/.idea/modules/MyMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyMusic.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyMusic.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-165504576/MyMusic.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-165504576/MyMusic.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-876846753/MyMusic.react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-876846753/MyMusic.react-native-firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/409371578/MyMusic.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/409371578/MyMusic.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-941307665/MyMusic.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-941307665/MyMusic.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-594574012/MyMusic.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-594574012/MyMusic.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/368222999/MyMusic.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/368222999/MyMusic.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1728063653/MyMusic.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1728063653/MyMusic.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1968614976/MyMusic.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1968614976/MyMusic.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/306962904/MyMusic.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/306962904/MyMusic.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071744733/MyMusic.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071744733/MyMusic.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1209082911/MyMusic.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1209082911/MyMusic.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-434094518/MyMusic.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-434094518/MyMusic.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
